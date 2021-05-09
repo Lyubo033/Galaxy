@@ -1,0 +1,13 @@
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.exe
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.deps.json
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.json
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.dev.json
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\bin\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.csprojAssemblyReference.cache
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfoInputs.cache
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfo.cs
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.csproj.CoreCompileInputs.cache
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\rsholev\Desktop\TestProjects\GalaxyCatalog\GalaxyCatalog\obj\Debug\netcoreapp3.1\GalaxyCatalog.genruntimeconfig.cache
